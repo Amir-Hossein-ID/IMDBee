@@ -1,5 +1,5 @@
 # IMDBee
-a python module to retrieve data from imdb
+A python module to retrieve data from imdb
 
 # How to Use
 
@@ -18,6 +18,10 @@ title = fetch(query).title
 print(title.title_text.text)s # -> "The Dark Knight"
 
 ```
+
+# Why IMDBee
+- Unlike similar libraries IMDBee doesn't scrape title pages to get info, it gets the only information you need without any additional data and this makes it fast.
+- ...
 
 # TODO
 - auto complete field names
