@@ -1,6 +1,11 @@
 # IMDBee
 A python module to retrieve data from imdb
 
+# Install
+```console
+$ python -m pip install IMDBee
+```
+
 # How to Use
 
 ```python
